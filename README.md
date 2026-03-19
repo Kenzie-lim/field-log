@@ -9,21 +9,21 @@ Currently completing MS AI School(Cohort 9), focused on NLP and ML pipelines.
 
 **E-Nudge** 
 Korean hate speech detection & nudge-based comment moderation. 
-1st place, MS AI School(Cohort 9) Project 1.
+1st place, Microsoft AI School(Cohort 9) Project 1.
 
 ML pipeline ownership, pseudo-labeling, RAI documentation.  
 → [View repo](https://github.com/PYongju/gds_fastapi_azure)
 
 **Youth Isolation Predictive Analysis** — 청년 복지 사각지대 발굴을 위한 고립은둔청년 예측 분석
-Awarded NIA President's Prize, 2023 (한국지능정보사회진흥원 원장상)
+Awarded NIA President's Prize, 2023 (한국지능정보사회진흥원 원장상)  
 
-data collection/preprocessing/analysis for the Dataitgirls program. 
-→ View repo (coming soon)
+data collection/preprocessing/analysis for the Dataitgirls program.  
+→ [View repo](https://github.com/Kenzie-lim/youth-isolation-analysis)
 
-**Daily Drops** — Daily vibe-coding challenge. 
+**bricolage** — Daily vibe-coding challenge.
 
 Small functional tools: ACT Matrix image maker, Japanese easy news generator, fruit store inventory checker, and more.  
-→ View repo (coming soon)
+→ [View repo](https://github.com/Kenzie-lim/bricolage)  
 
 ---
 
