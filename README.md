@@ -14,17 +14,6 @@ Korean hate speech detection & nudge-based comment moderation.
 ML pipeline ownership, pseudo-labeling, RAI documentation.  
 → [View repo](https://github.com/PYongju/gds_fastapi_azure)
 
-**Youth Isolation Predictive Analysis** — 청년 복지 사각지대 발굴을 위한 고립은둔청년 예측 분석
-Awarded NIA President's Prize, 2023 (한국지능정보사회진흥원 원장상)  
-
-data collection/preprocessing/analysis for the Dataitgirls program.  
-→ [View repo](https://github.com/Kenzie-lim/youth-isolation-analysis)
-
-**bricolage** — Daily vibe-coding challenge.
-
-Small functional tools: ACT Matrix image maker, Japanese easy news generator, fruit store inventory checker, and more.  
-→ [View repo](https://github.com/Kenzie-lim/bricolage)  
-
 ---
 
 ## Repository Structure
