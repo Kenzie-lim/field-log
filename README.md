@@ -46,13 +46,12 @@ External PM for Project 3 team, building an AI system for an early-stage B2B sta
 ## Learning Timeline
 
 ```
-2025 Aug     First commit. Daily logs: English, Japanese, Python basics.
-     Sep     MS AI School (Cohort 9) 시작
-     Oct–Dec  Python, data structures, ML fundamentals
-2026 Jan–Feb  Deep learning (perceptron → backprop), NLP, Azure ML
+2025 Aug     First commit. Daily logs: Python basics, English, Japanese.
+     Oct–Dec  Python, data structures, ML fundamentals, MS AI School (Cohort 9)
+2026 Jan–Feb  Deep learning, ML
      Feb–Mar  Project 1: E-Nudge — ML pipeline, pseudo-labeling, Azure deployment (1st place)
      Feb–Mar  Side projects: Runway Ad Contest, KCU Verse(dropped), Royal Seal (awaiting), Moltbook Playbook, Project Ideation Study 
-     Apr      Project 2: TerryPiQ — body matching, RAG, technical PM, Left MS AI School early - offers came in 
+     Apr      Project 2: TerryPiQ — body matching, RAG, technical PM. Left MS AI School early - offers came in 
      May–     External PM: startup AI system build (in progress)
 ```
 
